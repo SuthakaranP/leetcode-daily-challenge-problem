@@ -1,1 +1,1 @@
-Daily-challenge of Coding in leetcode
+Daily-challenges of Coding in leetcode
